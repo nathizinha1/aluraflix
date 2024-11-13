@@ -1,5 +1,5 @@
 body {
-    color: rgb(255, 0, 191);
+    color: rgb(213, 17, 37);
     background: rgb(223, 56, 150);
     margin: 0px;
     font-family: "Playfair Display", serif;
@@ -11,4 +11,12 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(31, 211, 235);
+}
+
+.chamada {
+    background: rgb(168, 44, 172);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
